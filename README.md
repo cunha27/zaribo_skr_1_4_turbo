@@ -1,4 +1,4 @@
-# Marlin Firmware for SKR Bear / SKR 1.4 Turbo / TMC2209 / BMG Prusa w/ LDO 0.9 
+# Marlin Firmware for Zaribo / SKR 1.4 Turbo / TMC2209 / BMG Prusa w/ LDO 0.9 
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
@@ -9,7 +9,7 @@
 
 ## Specs
 
-This firmware is configured for a Full Bear MK3 fitted with a BigTreeTech SKR 1.4 and TMC2209s:
+This firmware is configured for a Zaribo fitted with a BigTreeTech SKR 1.4 and TMC2209s:
 
 ### Motherboard
 * [BigTreeTech SKR 1.4 Turbo](https://www.biqu.equipment/collections/skr-series/products/btt-skr-v1-4-skr-v1-4-pro)
@@ -37,9 +37,6 @@ This firmware is configured for a Full Bear MK3 fitted with a BigTreeTech SKR 1.
 * RERAP Discount Smart Controller
 
 ### Wiring Guide
-* [SKR V1.4 Wiring Guide](https://github.com/codiac2600/SKR-MK3s-V1.4-Beta/blob/master/SKR%20MK3s%20Wire%20Guide.pdf)
-
-### BOM
-* [Bill of Materials](https://github.com/codiac2600/SKR-MK3s-V1.4-Beta/blob/master/SKR%20Conversion%20BOM.csv)
+* [SKR V1.4 Wiring Guide]
 
 ### Other
