@@ -9,7 +9,7 @@
 
 ## Specs
 
-This firmware is configured for a Zaribo 220 8mm fitted with a BigTreeTech SKR 1.4 Turbo and TMC2209s:
+This firmware is configured for a Zaribo 220/8mm fitted with a BigTreeTech SKR 1.4 Turbo and TMC2209s:
 
 ### Motherboard
 * [BigTreeTech SKR 1.4 Turbo](https://www.biqu.equipment/collections/skr-series/products/btt-skr-v1-4-skr-v1-4-pro)
@@ -19,10 +19,10 @@ This firmware is configured for a Zaribo 220 8mm fitted with a BigTreeTech SKR 1
 * [BTT TMC2209 V1.2](https://www.biqu.equipment/collections/stepper-motor-board/products/bigtreetech-tmc2209-stepper-motor-driver-for-3d-printer-board-vs-tmc2208) on X/Y/Z/E/E0
 
 ### Steppers
-* **X-axis:** LDO 1.8° motor
-* **Y-axis:** LDO 1.8° motor
-* **Z-axis:** LDO 1.8° motor
-* **Extruder:** LDO 0.9° motor
+* **X-axis:** 1.8° motor
+* **Y-axis:** 1.8° motor
+* **Z-axis:** 1.8° motor
+* **Extruder:** LDO Slim 0.9° motor
 * **Microstepping:** 1/16
 
 ### Hotend
@@ -34,9 +34,9 @@ This firmware is configured for a Zaribo 220 8mm fitted with a BigTreeTech SKR 1
 
 
 ### LCD Controller
-* RERAP Discount Smart Controller
+* LDO Discount Smart Controller
 
 ### Wiring Guide
-* [SKR V1.4 Wiring Guide
+* [SKR V1.4 Wiring Guide]
 
 ### Other
