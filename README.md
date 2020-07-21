@@ -1,4 +1,4 @@
-# Marlin Firmware for Zaribo / SKR 1.4 Turbo / TMC2209 / BMG Prusa w/ LDO 0.9 
+# Marlin Firmware for SKR Zaribo 220 8mm / SKR 1.4 Turbo / TMC2209 / BMG Prusa w/ LDO 0.9 
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
@@ -9,7 +9,7 @@
 
 ## Specs
 
-This firmware is configured for a Zaribo fitted with a BigTreeTech SKR 1.4 and TMC2209s:
+This firmware is configured for a Zaribo 220 8mm fitted with a BigTreeTech SKR 1.4 Turbo and TMC2209s:
 
 ### Motherboard
 * [BigTreeTech SKR 1.4 Turbo](https://www.biqu.equipment/collections/skr-series/products/btt-skr-v1-4-skr-v1-4-pro)
@@ -37,6 +37,6 @@ This firmware is configured for a Zaribo fitted with a BigTreeTech SKR 1.4 and T
 * RERAP Discount Smart Controller
 
 ### Wiring Guide
-* [SKR V1.4 Wiring Guide]
+* [SKR V1.4 Wiring Guide
 
 ### Other
