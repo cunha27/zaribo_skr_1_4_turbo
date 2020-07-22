@@ -29,7 +29,7 @@ This firmware is configured for a Zaribo 220/8mm fitted with a BigTreeTech SKR 1
  * [Prusa BMG Extruder](https://www.bondtech.se/en/product/prusa-i3-mk3s-mosquito-extruder-upgrade/)
  * [E3D V6 all-metal hotend](https://e3d-online.com/v6-all-metal-hotend)
  * [E3D 40W 24V Heater Cartridge](https://e3d-online.com/standard-heater-cartridge)
- * [Mechatronics B5015E24B-BSR 24v 5015 fan](https://www.digikey.com/product-detail/en/mechatronics-fan-group/B5015E24B-BSR/1570-1034-ND/5209731) (parts cooling)
+ * [Mechatronics fans](https://www.digikey.com/product-detail/en/mechatronics-fan-group/B5015E24B-BSR/1570-1034-ND/5209731)
  * [PINDA V2](https://www.prusa3d.com)
 
 
