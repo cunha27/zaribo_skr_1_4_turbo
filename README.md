@@ -39,4 +39,7 @@ This firmware is configured for a Zaribo 220/8mm fitted with a BigTreeTech SKR 1
 ### Wiring Guide
 * [SKR V1.4 Wiring Guide]
 
+### Build Manual
+* [Zaribo Build](https://zaribo.com/blog/zaribo-build-guide-pdf/)
+
 ### Other
